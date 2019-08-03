@@ -1,0 +1,2 @@
+# nvidia-optimus-manager-gui
+this project is based on [nvidia-optimus-manager](https://github.com/xulongwu4/nvidia-optimus-manager) by [xulongwu4](https://github.com/xulongwu4) and designed to work on Solus OS specifically. It should be portable given a correct install of linux-driver-management and some trial and error, however.
